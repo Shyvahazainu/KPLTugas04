@@ -1,0 +1,22 @@
+{
+  "name": "kpltugas04",
+  "version": "1.0.0",
+  "description": "SeleniumWebTestKPL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/Shyvahazainu/KPLTugas04"
+  },
+  "keywords": [
+    "Selenium"
+  ],
+  "author": "Shyva Annisa Hazainu",
+  "license": "ISC",
+  "devDependencies": {
+    "chromedriver": "^113.0.0",
+    "selenium-webdriver": "^4.9.1"
+  }
+}
